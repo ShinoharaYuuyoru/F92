@@ -20,8 +20,9 @@ Special thanks to [David Churchill](https://github.com/davechurchill) for creati
    - `BWAPI_DIR` - BWAPI 4.1.2 installation root directory
    - `BWTA_DIR` - BWTA 2.2 installation root directory
 2. Open F92.sln File in Visual Studio 2013
-3. Select `Release` Mode
-4. Build & Get `F92.dll`
-5. Open `Chaos Launcher` modify the `config.txt` to the dll file you've just built
-6. Run & Enjoy! 
+3. Change the Config file Path in `Config.cpp`
+4. Select `Release` Mode
+5. Build & Get `F92.dll` in Release Folder
+6. Open `Chaos Launcher` modify the `config.txt` to use the dll file you've just built
+7. Run Starcraft & Enjoy! 
 

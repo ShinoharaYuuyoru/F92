@@ -1,0 +1,10 @@
+*.sdf
+*.suo
+*.opensdf
+*.user
+*.dll
+*.exe
+*.o
+F92/F92_ErrorLog.txt
+*.pd_
+BOSS/VisualStudio/BOSS.VC.db
